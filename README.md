@@ -44,7 +44,7 @@ See the full test coverage and module documentation below.
 
 ## Open source
 
-This repository is open source and released under the MIT License. See `LICENSE` for details.
+This repository is open source .
 
 ## Vibe coding
 
