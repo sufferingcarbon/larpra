@@ -5,7 +5,7 @@
 
 A modern, from-scratch Operations Research lab for the browser — a spiritual (not code or
 branding) replacement for TORA-style university OR labs. Every algorithm is reimplemented from
-first principles; nothing here is copied from TORA.
+first principles; nothing here is copied from TORA.download the .zip or use online at https://larpra.netlify.app/
 
 **Milestone 1** (Linear Programming: graphical method + two-phase simplex), **Milestone 2**
 (Transportation: NW Corner/Least Cost/VAM + MODI), **Assignment** (Hungarian algorithm),
